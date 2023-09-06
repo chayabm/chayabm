@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I've just started my coding learning journey and I am very excited! ^_^
+I've just started my coding journey and I am looking forward to discovering what code can do ✨
 <!--
 **chayabm/chayabm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
